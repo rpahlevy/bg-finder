@@ -1,5 +1,7 @@
 # bg-finder
 
+https://bg-finder.firebaseapp.com/
+
 > Boardgame Finder
 
 ## Build Setup
